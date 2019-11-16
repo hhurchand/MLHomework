@@ -1,6 +1,13 @@
 # Machine Learning Homework
 # Levels completed - Basic , advanced and Reach
+
 # New estimator used : Ridge
+#Ridge is usually used in situations of overfitting (with good fit but high variance)
+#Statistical analysis provides indication of overfitting potential,
+#leading to the choice of this algorithm. The key idea is that we introduce a bias in the
+# calculation of the parameters, so that the fit is not perfect but is balanced by a reduction in variance
+"
+
 # Also tried DecisionTreeRegressor
 # Used MSRE and crossvalidation score to evaluate and compare models
 # H Hurchand 15 Nov 2019
